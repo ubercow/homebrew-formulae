@@ -1,6 +1,6 @@
 class Bubber < Formula
   homepage "https://github.com/ubercow/bubber"
-  url "https://github.com/ubercow/bubber.git", :tag => "v0.1.0", :revision => "6a399e62db72175f9a0d53436d2c91a03a32f00a"
+  url "https://github.com/ubercow/bubber.git", :tag => "v0.2.0", :revision => "bdc24d4abdfc2a227890c168b2bebd285f714f64"
   head "https://github.com/ubercow/bubber.git"
 
   depends_on "rust" => :build
